@@ -1,0 +1,11 @@
+.btn{
+    display: inline-block;
+    background-color: palevioletred;
+    color: purple;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 25px;
+    margin-top: 500px;
+    margin-left: -200px;
+
+}
